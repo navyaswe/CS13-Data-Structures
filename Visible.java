@@ -1,9 +1,3 @@
- /*
-Author - Navya Swetha Daggubati
-CS 513 / Assignment 6
-Java program to find minimum number of visible boxes.
-*/
-
 import java.util.*;
 
 class Visible {
