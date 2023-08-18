@@ -1,3 +1,9 @@
+/*Suppose we are given a set of boxes, each specified by their height, width, and depth in inches. All three side lengths of every box lie strictly between 1 inch and 36 inches. As you should expect, one
+box can be placed inside another if the first box can be rotated so that its height, width, and depth are respectively at least one inch smaller smaller than the height, width, and depth of the second
+box. Boxes can be nested recursively. Call a box visible if it is not inside another box. Write code that will determine the smallest number of visible boxes.
+*/
+
+
 import java.util.*;
 
 class Visible {
